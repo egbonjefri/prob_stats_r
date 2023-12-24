@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*.zip
+chromedriver
+.DS_Store
+*.DS_Store
+/ai4ph
+/include
+__pycache__
+*.csv
+*.Rdata
